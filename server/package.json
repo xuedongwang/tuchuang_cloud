@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "file-type": "^14.7.1",
+    "formidable": "^1.2.2",
+    "koa": "^2.13.0",
+    "koa-bodyparser": "^4.3.0",
+    "koa-router": "^9.4.0",
+    "koa2-cors": "^2.0.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
