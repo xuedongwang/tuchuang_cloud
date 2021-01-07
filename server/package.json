@@ -10,10 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "file-type": "^14.7.1",
-    "formidable": "^1.2.2",
+    "ali-oss": "^6.13.0",
+    "dotenv": "^8.2.0",
     "koa": "^2.13.0",
-    "koa-bodyparser": "^4.3.0",
     "koa-router": "^9.4.0",
     "koa2-cors": "^2.0.6"
   },
